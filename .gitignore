@@ -57,3 +57,5 @@ cmake/
 .directory
 
 *synctex.gz
+thesis.fdb_latexmk
+thesis.fls
